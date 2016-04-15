@@ -29,7 +29,7 @@ $carro1 = new Carro($motort, $volante); /*instanciar - objeto criado*/
 
 try
 {
-$carro1->abastecer(30);
+//$carro1->abastecer(30);
 $carro1->ligar();
 $carro1->acelerar(30);
 /*
